@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LOGIN_ASP.NET_MVC_SQL", "LOGIN_ASP.NET_MVC_SQL\LOGIN_ASP.NET_MVC_SQL.csproj", "{B9B14474-9709-41CA-9F24-6CD27D3B497E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9B14474-9709-41CA-9F24-6CD27D3B497E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9B14474-9709-41CA-9F24-6CD27D3B497E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9B14474-9709-41CA-9F24-6CD27D3B497E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9B14474-9709-41CA-9F24-6CD27D3B497E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7D8FE03-74AC-4E8A-BDBF-9067B640B18D}
+	EndGlobalSection
+EndGlobal
